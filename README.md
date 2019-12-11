@@ -1,5 +1,7 @@
 # phong
 
+[![Build Status](https://travis-ci.org/ryoma123/phong.svg?branch=master)](https://travis-ci.org/ryoma123/phong)
+
 CLI tool to inform the region where a phone number is from.
 
 ## Installation
@@ -7,7 +9,7 @@ CLI tool to inform the region where a phone number is from.
 To install, use `go get`:
 
 ```sh
-$ go get github.com/ryoma123/phong
+$ go get github.com/ryoma123/phong/...
 ```
 
 ## Usage
